@@ -161,15 +161,15 @@
 
 ### Frontend Web Development
 
-- Module 1: Introduction to Frontend Development
+- Module 1: Server Side Rendering
+- Module 2: Introduction to Frontend Development
   - Single Page Applications (SPAs)
   - Introduction to Ajax
   - DOM vs. Virtual DOM
-- Module 2: Server Side Rendering
 - Module 3: Building with React.js
-- Module 4: Advanced Topics and Integration
+- Module 4 **(If we have time**): Advanced Topics and Integration
   - Authentication and User Administration 
-  - CRUD Operations
+- Module 5  
   - Where to Go Next in Frontend Development
 
 ### Project Related
@@ -202,7 +202,7 @@
 - Module 6: DevOps and Deployment
   - Continuous Integration and Continuous Deployment (CI/CD) Pipelines
   - Deployment Strategies for Full Stack Applications
-  - (Optional) Introduction to Docker for Containerization
+  - Introduction to Docker for Containerization **(If we have time**):
 - Module 7: Miscellaneous Topics
   - Soft Skills: Communication and Learning Strategies
   - Building Full Stack Applications with Real-World Examples
@@ -253,7 +253,7 @@
 
 
 <!-- links -->
-[Gatsby.JS]:https://www.gatsbyjs.com/
+[Gatsby.JS]:https://www.gatsbyjs.com/showcase/
 [Next.JS]:https://nextjs.org/
 [Misc.]:https://www.johnsmilga.com/
 [JavaScript Mastery]:https://www.youtube.com/@javascriptmastery/playlists

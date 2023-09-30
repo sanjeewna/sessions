@@ -90,7 +90,7 @@
   - Security is a critical concern in the backend, although we'll delve into this aspect further as the course progresses. We'll explore how to secure our applications from potential vulnerabilities and attacks.
 - **Frontend:** [Roadmap FE]
   - On the frontend side, we begin by understanding the Document Object Model (DOM), which represents the structure of web pages in a tree-like format. This understanding is essential for manipulating and interacting with web page elements.
-  - We'll explore the concept of the Virtual DOM, a technique used by frameworks like React to optimize updates and enhance performance.
+  <!-- - We'll explore the concept of the Virtual DOM, a technique used by frameworks like React to optimize updates and enhance performance. -->
   - We'll start from the very basics of frontend development, ensuring that everyone, regardless of their prior experience, gains a strong foundation.
 - **API (REST) + Documentation:**
   - APIs (Application Programming Interfaces) are crucial for enabling communication between different parts of an application or between different applications. We'll focus on RESTful APIs, a common approach for building web services.
@@ -135,9 +135,9 @@
 
 ### [AI](./AI.md)
 
-- You can use ChatGPT during class for assistance    
-  - not during the exam
-- copilot
+- You can use `ChatGPT` during class for assistance    
+  - **Not** during the **exam**
+- [copilot](https://github.com/features/copilot)
 
 
 ### Deliverables:
@@ -284,7 +284,7 @@
 
 
 <!-- links -->
-[Gatsby.JS]:https://www.gatsbyjs.com/
+[Gatsby.JS]:https://www.gatsbyjs.com/showcase/
 [Next.JS]:https://nextjs.org/
 [Misc.]:https://www.johnsmilga.com/
 [JavaScript Mastery]:https://www.youtube.com/@javascriptmastery/playlists
