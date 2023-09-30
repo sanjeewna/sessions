@@ -1,6 +1,8 @@
 # 2023-09-29: Introduction to the Course
 
-> https://github.com/Full-Stack-TX00FC40/sessions
+<!-- 
+https://github.com/Full-Stack-TX00FC40/sessions 
+-->
 
 ## TOC
 
@@ -117,7 +119,7 @@
 
 - You can use ChatGPT during class for assistance    
   - not during the exam
-- copilot
+- [GitHub Copilot](https://github.com/features/copilot)
 
 ### Deliverables:
 

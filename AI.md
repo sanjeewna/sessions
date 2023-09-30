@@ -2,9 +2,10 @@
 
 - [Rules of using ChatGPT at Metropolia]
 - AI coding companions
-  - GitHub Copilot: 
+  - GitHub [Copilot](https://github.com/features/copilot): 
     - [Setting Up GitHub Student and GitHub Copilot as an Authenticated Student Developer]
     - [Get Started with the Future of Coding]
+    - [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 
 
 

@@ -137,7 +137,7 @@
 
 - You can use `ChatGPT` during class for assistance    
   - **Not** during the **exam**
-- [copilot](https://github.com/features/copilot)
+- [GitHub Copilot](https://github.com/features/copilot)
 
 
 ### Deliverables:
@@ -268,6 +268,7 @@
 ---
 ## Resources
   - JavaScript before and [now]
+  - [Developer Experience (DX): What is it, and Why does it Matter?](https://appmaster.io/blog/developer-experience)
   - [Full Stack open]
   - DevOps vs [MLOps]
   - [Scrimba: React]
@@ -276,6 +277,7 @@
   - [Coding Addict: React 18]
   - [The Net Ninja]
   - [Modern JavaScript]
+
 
 
 
