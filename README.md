@@ -30,9 +30,9 @@
 [Week 4: CRUD, Routing, Figma]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week4
 [Week 5: Authentication, Authorization]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week5
 [Week 6: API server vs SSR Server, Sprint 1]:https://github.com/tx00-web/activities/tree/week6
-[Week 7: React]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week7
+[Week 7: React, Unit Testing]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week7
 [Week 8: React, Sprint 2]:https://github.com/tx00-web/activities/tree/week8
-[Week 9: React]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week9
+[Week 9: React, Backend Testing]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week9
 [Week 10: React, Sprint 3]:https://github.com/Full-Stack-TX00FC40/sessions/tree/week10
 
 
