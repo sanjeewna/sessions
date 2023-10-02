@@ -234,8 +234,18 @@ https://github.com/Full-Stack-TX00FC40/sessions
 - Homework for next week
 
 
+### Part 7: References:
+
+- Videos
+  - [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+  - [Node.js Auth Tutorial (JWT)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
+  - [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+- Books
+  - Learning Git, By Anna Skoulikari
+  - Get Programming with Node.js, By Jon Wexler
+
 ---
-##  Part 7: Resources
+## Resources
 
 - JavaScript before and [now]
 - [Full Stack open]
