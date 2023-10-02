@@ -12,7 +12,7 @@ https://github.com/Full-Stack-TX00FC40/sessions
 - [Part 4: Topics](#part-4-topics)
 - [Part 5: About Education](#part-5-education-4050)
 - [Part 6: Next week](#part-6-next-week)
-- [Part 7: Misc.](#part-7-resources)
+- [Part 7: References.](#part-7-references)
 
 ----
 ## Part 1: Why?
@@ -234,7 +234,7 @@ https://github.com/Full-Stack-TX00FC40/sessions
 - Homework for next week
 
 
-### Part 7: References:
+### Part 7: References
 
 - Videos
   - [Node.js Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
