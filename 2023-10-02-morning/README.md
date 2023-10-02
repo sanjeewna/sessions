@@ -66,3 +66,23 @@
 
 
 
+
+ 
+
+
+<!-- Links -->
+[Browser Engines]:https://en.wikipedia.org/wiki/Browser_engine
+[Blink]:https://en.wikipedia.org/wiki/Blink_(browser_engine)
+[Gecko]:https://en.wikipedia.org/wiki/Gecko_(software)
+[WebKit]:https://en.wikipedia.org/wiki/WebKit
+[JavaScript Engines]:https://en.wikipedia.org/wiki/JavaScript_engine
+[V8]:https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
+[SpiderMonkey]:https://en.wikipedia.org/wiki/SpiderMonkey
+[interpret]:https://nodejs.dev/en/learn/the-v8-javascript-engine/
+[Node.js]:https://nodejs.dev/en/learn/
+[JS Engines]:https://github.com/tx00-web/material/tree/main/Backend-related/JS-engines.md
+[Node Intro]:https://github.com/tx00-web/material/tree/main/Backend-related/node-intro.md
+[Variables]:https://github.com/tx00-web/material/tree/main/JS-related/variables.md
+[Arrow Functions]:https://github.com/tx00-web/material/tree/main/JS-related/arrow-functions.md
+[Functions]:https://github.com/tx00-web/material/tree/main/JS-related/functions.md
+[Modern JavaScript Tutorial]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
